@@ -1,0 +1,13 @@
+{
+    "name": "express-static-server",
+    "version": "1.0.0",
+    "description": "Express server to serve static contents from the 'public' folder",
+    "main": "server.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "scripts": {
+      "start": "node server.js"
+    }
+  }
+  
